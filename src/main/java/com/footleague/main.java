@@ -1,3 +1,4 @@
+package com.footleague;
 
 public class main {
 
